@@ -53,7 +53,7 @@ AWS Cloud Practitioner Essentials
 ---
 
 ### 🚀 Projects  
-🔹 **[StatSavvy](#)** – Advanced football analytics platform (React Native, Firebase, Python)  
-🔹 **[NBA 2023-24 Season Database](#)** – API-driven relational database for tracking NBA stats  
-🔹 **[MultiThreaded Retail Store Simulation](#)** – Java-based concurrent simulation for retail operations  
-🔹 **[Binary Image Compression Tool](#)** – C++ image compression using the distance transform algorithm  
+🔹 **[StatSavvy](https://github.com/yournetf/StatSavvy)** – Advanced football analytics platform (React Native, Firebase, Python)  
+🔹 **[NBA 2023-24 Season Database](https://github.com/yournetf/DatabaseClasswork)** – API-driven relational database for tracking NBA stats  
+🔹 **[MultiThreaded Retail Store Simulation](https://github.com/yournetf/MultiThreadingStoryTeller)** – Java-based concurrent simulation for retail operations  
+🔹 **[Binary Image Compression Tool](https://github.com/yournetf/ComputerVision-C-Java-)** – C++ image compression using the distance transform algorithm  
