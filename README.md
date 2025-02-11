@@ -1,9 +1,7 @@
 ## Hi there 👋  
 
 ### Full Stack Software Developer | Queens, NY  
-📧 frankyournet@gmail.com | 📱 +1 347-824-1352 | :globe_with_meridians:[Portfolio](https://www.franks.city/) | [LinkedIn](www.linkedin.com/in/frank-yournet
-
-) | [Github](https://github.com/yournetf)
+📧 frankyournet@gmail.com | 📱 +1 347-824-1352 | :globe_with_meridians:[Portfolio](https://www.franks.city/) | [LinkedIn](www.linkedin.com/in/frank-yournet) | [Github](https://github.com/yournetf)
 
 ---
 
