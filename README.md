@@ -45,7 +45,7 @@ JavaScript (ES6+), React.js, React Native, HTML, CSS, TailwindCSS, Figma
 Python, Firebase, Node.js, Express, Java, Spring Boot, MySQL, MongoDB, SQLite, C/C++  
 
 #### **DevOps & Tools:**  
-AWS, Git, CI/CD  
+AWS (EC2, ECS, ECR, S3), Git, CI/CD  
 
 #### **Certifications:**  
 AWS Cloud Practitioner Essentials  
