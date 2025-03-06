@@ -42,7 +42,7 @@ I'm a **full-stack software engineer** with a strong foundation in **front-end d
 JavaScript (ES6+), React.js, React Native, HTML, CSS, TailwindCSS, Figma  
 
 #### **Back-end:**  
-Python, Firebase, Node.js, Express, Java, Spring Boot, MySQL, MongoDB, SQLite, C/C++  
+Java, Spring Boot, Python, Firebase, Node.js, Express, MySQL, MongoDB, SQLite, C/C++  
 
 #### **DevOps & Tools:**  
 AWS (EC2, ECS, ECR, S3), Git, CI/CD  
